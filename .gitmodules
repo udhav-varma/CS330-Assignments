@@ -1,0 +1,9 @@
+[submodule "assignment1"]
+	path = assignment1
+	url = git@github.com:udhav-varma/CS330-Assignment1.git
+[submodule "assignment2"]
+	path = assignment2
+	url = git@github.com:udhav-varma/CS330-Assignment2.git
+[submodule "assignment3"]
+	path = assignment3
+	url = git@github.com:udhav-varma/CS330-Assignment3.git
